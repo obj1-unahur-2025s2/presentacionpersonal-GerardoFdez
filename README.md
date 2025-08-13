@@ -1,6 +1,6 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
+# Gerardo Fernández
 ## Presentación Personal
 
 ### Datos Personales

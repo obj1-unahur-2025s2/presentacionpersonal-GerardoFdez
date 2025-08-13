@@ -10,6 +10,7 @@ Conversando con un compañero, surgió una charla sobre programación y algunos 
 
 En ese entonces, estaba buscando un trabajo cerca de mi casa y, casi al mismo tiempo que me anoté para hacer el CPU, conseguí empleo en otra metalurgia en Hurlingham. Finalmente, para cerrar la historia, me mudé a solo siete cuadras de la UNAHUR con la intención de tener todo a mano.
 
+Cuando termine la carrera y consiga suficiente experiencia, me encantaría desarrollar un proyecto independiente que beneficie a la sociedad en algún aspecto y que sea de uso gratuito.
 
 
 ### Datos Extras

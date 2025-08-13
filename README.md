@@ -12,6 +12,9 @@ En ese entonces, estaba buscando un trabajo cerca de mi casa y, casi al mismo ti
 
 
 
-### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+### Datos Extras
+* Vivo con mi perra Branka y mi gata Koka (la perra ya tenia ese nombre y la gata tenia que combinar).
+* Me gusta ecuchar música, en especial rock nacional.
+* Me gusta mirar pelis, series y anime (solo los que tienen un buen desarrollo).
+* Me gusta leer.
+* Me gusta entrenar y cocinar.
